@@ -43,7 +43,7 @@
 1) Создать новый проект из шаблона 3D – Core;
 2) Проверить, что настроена интеграция редактора Unity и Visual Studio Code
 3) Установить необходимые ассет-паки из Asset Unity Store;
-![Alt text](Images/1png?raw=true "Title")
+![Alt text](Images/1.png?raw=true "Title")
 ![Alt text](Images/2.png?raw=true "Title")
 
 4) Настроить Animated Controller для дракона на сцене
