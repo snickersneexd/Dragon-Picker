@@ -202,6 +202,7 @@ public class DragonPicker : MonoBehaviour
 
 Готовый билд собираем в ZIP-файл и заливаем на Яндекс.Игры.
 Получаем ссылку на черновик игры, запускаем и проверяем логи.
+
 ![Alt text](Images/7.png?raw=true "Title")
 
 SDK успешно установлен в билд игры!
